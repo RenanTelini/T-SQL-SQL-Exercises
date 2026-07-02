@@ -10,4 +10,8 @@
 
 ### The third exercise is about handling null values. In this exercise, functions such as ISNULL were used to check if a column value is NULL, NULLIF was used to change a specific value to NULL, and COALESCE was used to compare multiple columns and return the first non-null value. A CASE expression with WHEN...THEN clauses was also used.
 
+## Challenges - Summary:
+
+### Challenge 1. Retrieve customer data: The first challenge was about retrieving customer data from the database. I used functions such as ISNULL and COALESCE, as well as the SELECT statement.
+
 ###### More exercises and challenges will be added soon
