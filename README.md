@@ -14,4 +14,6 @@
 
 ### Challenge 1. Retrieve customer data: The first challenge was about retrieving customer data from the database. I used functions such as ISNULL and COALESCE, as well as the SELECT statement.
 
+### Challenge 2. Retrieve customer order data: The second exercise is similar to the first. I used the SELECT statement too, but I needed to use the CONVERT function to concatenate columns with different data types.
+
 ###### More exercises and challenges will be added soon
