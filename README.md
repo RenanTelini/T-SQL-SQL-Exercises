@@ -16,4 +16,4 @@
 
 ### Challenge 2. Retrieve customer order data: The second exercise is similar to the first. I used the SELECT statement too, but I needed to use the CONVERT function to concatenate columns with different data types.
 
-###### More exercises and challenges will be added soon
+### Challenge 3. Retrieve customer contact details: In the third and last challenge, I was instructed to use the UPDATE statement because I would work with NULL values, but in the sample data provided, there are no customer records without an email address. After this, I used functions such as COALESCE, ISNULL and CASE expression with WHEN...THEN clauses.
